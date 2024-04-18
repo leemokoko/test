@@ -1,0 +1,50 @@
+* {
+    background-color: white;
+    
+    
+}
+
+h1 {
+    color:purple;
+    position: relative;
+    background-color: orange;
+    width: max-content;
+    border-radius: 1em;
+
+}
+
+#demon {
+    position: relative;
+    width: 300px;
+    height: 150px;
+    
+}
+
+#mo {
+    color: cadetblue;
+    font-weight: bold;
+    position: relative;
+    /* margin: 10px;
+    padding: 10px; */
+    border-top: 1em;
+    background-color: brown;
+    width: max-content;
+
+}
+
+#mo>li:hover {
+    font-size: 1.1em;  
+    color: gold;
+    list-style: inside
+}
+
+dt {
+    color:gold;
+    font-weight: bold;
+    text-decoration: underline;
+    list-style: circle;    
+}
+
+dl {
+    color:darkred
+}
